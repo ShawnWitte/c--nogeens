@@ -1,0 +1,7 @@
+Z:\Bureaublad\C# opnieuw\Hoofdstuk 7 Facade\Hoofdstuk 7 Facade\obj\Debug\Hoofdstuk 7 Facade.csprojResolveAssemblyReference.cache
+Z:\Bureaublad\C# opnieuw\Hoofdstuk 7 Facade\Hoofdstuk 7 Facade\obj\Debug\Hoofdstuk 7 Facade.csproj.CoreCompileInputs.cache
+Z:\Bureaublad\C# opnieuw\Hoofdstuk 7 Facade\Hoofdstuk 7 Facade\bin\Debug\Hoofdstuk 7 Facade.exe.config
+Z:\Bureaublad\C# opnieuw\Hoofdstuk 7 Facade\Hoofdstuk 7 Facade\bin\Debug\Hoofdstuk 7 Facade.exe
+Z:\Bureaublad\C# opnieuw\Hoofdstuk 7 Facade\Hoofdstuk 7 Facade\bin\Debug\Hoofdstuk 7 Facade.pdb
+Z:\Bureaublad\C# opnieuw\Hoofdstuk 7 Facade\Hoofdstuk 7 Facade\obj\Debug\Hoofdstuk 7 Facade.exe
+Z:\Bureaublad\C# opnieuw\Hoofdstuk 7 Facade\Hoofdstuk 7 Facade\obj\Debug\Hoofdstuk 7 Facade.pdb
